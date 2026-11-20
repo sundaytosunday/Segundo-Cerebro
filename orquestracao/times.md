@@ -12,8 +12,8 @@ Marque com ✅ o que você assina hoje; a IA orquestradora só delega para quem 
 | Executor principal | A parte mais difícil: código central, texto importante, análise | Claude Opus 5.5 (Claude Code) | |
 | Executor paralelo | Uma frente independente ao mesmo tempo (ex.: back-end enquanto o outro faz o front-end) | Codex (OpenAI) ou um subagente Claude Sonnet 5.5 | |
 | Tarefas com passo a passo claro | Deploy, renomear, formatar, converter, preencher modelo | Claude Haiku 5.5, Sonnet 5.5 ou Gemini (Antigravity) | |
-| Navegador | Operar sites sem API (Google Flow, painéis, formulários) | Claude na extensão do Chrome | |
-| Imagem e vídeo | Gerar mídia | Google Flow (Nano Banana, Veo) | |
+| Navegador | Operar sites sem API (Google Flow, painéis, formulários) | Claude na extensão do Chrome | ✅ |
+| Imagem e vídeo | Gerar mídia | Google Flow (Nano Banana, Veo) | ✅ |
 | Pesquisa longa | Ler muitas fontes e fazer um relatório | Claude com pesquisa na web ou NotebookLM | |
 
 ## Como escolher
