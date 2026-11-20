@@ -15,7 +15,7 @@ Baseado no vídeo do Felipe Tâmbara ([análise](conhecimento/videos/essa-e-a-st
 
 ```bash
 cd ~                                     # ou onde preferir guardar
-git clone https://github.com/<dono>/segundo-cerebro.git
+git clone https://github.com/sundaytosunday/YTProject.git segundo-cerebro
 cd segundo-cerebro
 bash scripts/instalar.sh
 ```
@@ -41,7 +41,7 @@ A skill `segundo-cerebro` faz uma entrevista em blocos curtos (você, negócios,
 | IA | Como lê o segundo cérebro |
 |---|---|
 | Claude Code (Mac) | Automático, em qualquer pasta, depois do `instalar.sh` |
-| Claude Code na nuvem (claude.ai/code, celular) | Adicione o repositório `segundo-cerebro` à sessão ou ao ambiente; ele lê o `CLAUDE.md` |
+| Claude Code na nuvem (claude.ai/code, celular) | Adicione o repositório `sundaytosunday/YTProject` à sessão ou ao ambiente; ele lê o `CLAUDE.md` |
 | Codex | Automático depois do `instalar.sh` (`~/.codex/AGENTS.md`) |
 | Gemini CLI / Antigravity | `~/.gemini/GEMINI.md`; o Antigravity também lê o `AGENTS.md` de um projeto aberto |
 | Cursor, Copilot e outros editores | Leem o `AGENTS.md` quando o segundo cérebro está aberto no workspace |
